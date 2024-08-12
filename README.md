@@ -1,0 +1,2 @@
+# devops
+cg devops session
